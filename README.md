@@ -8,7 +8,7 @@ This is aimed to be a simple package to express numbers in a way familiar to tho
 using analog circuit simulators.
 
 Let me know if there are more you would like added.
-See [[src/CircuitConstants.jl]] for a list of available constants.
+See [src/CircuitConstants.jl](src/circuitConstants.jl) for a list of available constants.
 
 ## Usage
 
